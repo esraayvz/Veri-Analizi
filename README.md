@@ -1,1 +1,2 @@
 # Veri-Analizi
+ Bu projede, Titanic veri seti üzerinde Python kullanılarak analizler yapıldı. Kaç kişinin hayatını kaybettiği belirlendikten sonra, ölümlerin yaş, cinsiyet ve maddi durum gibi faktörlerle olan ilişkileri incelendi. Analizlerin daha net bir şekilde yorumlanabilmesi için, Python kütüphaneleriyle (Pandas, Matplotlib) veri görselleştirmeleri oluşturuldu. Bu sayede, ölüm oranları ve etkileyen faktörler daha anlaşılır bir şekilde sunuldu. Proje spyder uygulamasında gerçekleştirildi.
